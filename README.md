@@ -1,305 +1,126 @@
 # 👋 Hi, I'm Bhuvaneshwaran D
 
-### 🐍 Python Developer | Backend Development | Django | REST APIs | 🤖 AI & GenAI
+### 🐍 Python Backend Developer | 🤖 AI Developer
 
-I'm a **Python-focused developer interested in Backend Development and Artificial Intelligence**.
+I build backend applications, REST APIs, and AI-powered solutions using Python. I enjoy solving real-world problems, exploring new technologies, and developing scalable applications.
 
-I enjoy building practical applications using Python, Django, REST APIs, databases, and authentication systems. Alongside backend development, I'm exploring **AI, Generative AI, LLMs, embeddings, and RAG** to understand how modern AI applications are designed and integrated with backend systems.
-
-I believe in **learning by building** — turning concepts into practical projects and continuously improving my technical skills.
-
----
-
-## 👨‍💻 About Me
-
-* 🐍 Developing strong skills in **Python**
-* 🌐 Building backend applications with **Django & Django REST Framework**
-* 🔌 Developing **RESTful APIs**
-* 🔐 Learning **JWT Authentication & API Security**
-* 🗄️ Working with **SQL & MySQL**
-* 🔧 Using **Git & GitHub**
-* 🧩 Exploring **Backend Architecture & System Design**
-* 🤖 Learning **Artificial Intelligence & Generative AI**
-* 🧠 Exploring **LLMs, Prompt Engineering, Embeddings & RAG**
-* 🔗 Interested in combining **AI + Backend Development**
-* 🚀 Learning through real-world projects and hands-on practice
+- 🔭 Currently working on **Backend Development & AI-powered applications**
+- 🌱 Learning **Generative AI, RAG, LLMs, and Machine Learning**
+- 💻 Interested in **Django, FastAPI, REST APIs, and System Design**
+- 🚀 Building real-world projects with Python and modern technologies
+- 🎯 Goal: Become a skilled Python Backend & AI Developer
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-### 💻 Programming
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js" />
+</p>
 
-* Python
-* Object-Oriented Programming
-* Problem Solving
-* Data Structures & Algorithms
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi" />
+</p>
 
-### 🌐 Backend Development
+### Database & Storage
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
 
-* Django
-* Django REST Framework
-* REST APIs
-* CRUD Operations
-* Serializers
-* APIView
-* Class-Based Views
-* Authentication & Authorization
-* JWT Authentication
-* Access & Refresh Tokens
-* Token Blacklisting
-* API Security
+### AI & Generative AI
 
-### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
-* MySQL
-* SQL
-* Database Relationships
-* Joins
-* CRUD Queries
-* Database Design
+`LangChain` `RAG` `LLMs` `Ollama` `ChromaDB` `Embeddings` `Semantic Search`
 
-### 🤖 AI & Generative AI
-
-Currently exploring:
-
-* Artificial Intelligence Fundamentals
-* Generative AI
-* Large Language Models (LLMs)
-* Prompt Engineering
-* Embeddings
-* Vector Databases
-* Retrieval-Augmented Generation (RAG)
-* AI-powered APIs
-* AI + Backend Integration
-
-### 🔧 Tools & Technologies
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* MySQL Workbench
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+</p>
 
 ---
 
-# 🚀 Projects
+## 🚀 Featured Projects
 
-## 🔐 JWT Authentication & Secure REST API
+### 1. InferAPI – AI-Powered API Reverse Engineering Platform
 
-A Django REST Framework project focused on understanding authentication, authorization, and API security.
+An AI-powered platform designed to analyze technical documentation and extract API schemas using backend services and retrieval-augmented generation.
 
-### Concepts:
+**Technologies:** Python · FastAPI · Pydantic · RAG · ChromaDB · Docker
 
-* JWT authentication
-* Access & refresh tokens
-* Token expiration
-* Protected APIs
-* Authentication & authorization
-* Refresh token blacklisting
-* Secure API design
+- API schema extraction from technical documentation.
+- Semantic search using embeddings and ChromaDB.
+- Multi-agent workflow for API analysis and documentation generation.
+- OpenAPI / Swagger documentation support.
 
-**Tech:** `Python` `Django` `DRF` `JWT` `MySQL`
+### 2. Mindfolio – Investment Research & Portfolio Management
 
----
+A backend-focused investment management platform designed for portfolio tracking, investment research, and financial analytics.
 
-## 👨‍🎓 Student Management REST API
+**Technologies:** Python · Django · Django REST Framework · PostgreSQL · React
 
-A backend CRUD application created to understand REST API development and database operations.
+- Portfolio and transaction management.
+- REST API development.
+- Database design and financial data management.
+- Foundation for investment analytics and AI/ML features.
 
-### Features:
+### 3. Behavioral Biases Detection & Analysis
 
-* Create student
-* Retrieve student
-* Update student
-* Delete student
-* Serializer validation
-* Database integration
-* REST API endpoints
+An investment analytics application designed to identify behavioral patterns and biases in investor decisions.
 
-**Tech:** `Python` `Django` `DRF` `MySQL`
+**Technologies:** Python · Django · DRF · PostgreSQL · Machine Learning
 
----
-
-## 🍱 Food Waste Management System
-
-A project designed to help manage surplus food and improve food distribution.
-
-### Focus:
-
-* Backend logic
-* Database management
-* User management
-* Data processing
-* CRUD operations
-
-**Tech:** `Python` `SQL` `Web Technologies`
+- Analysis of loss aversion and overconfidence.
+- Detection of herding and disposition effect.
+- Structured portfolio and transaction data.
+- Planned machine learning-based behavioral analysis.
 
 ---
 
-# 🤖 AI & GenAI Learning Journey
+## 📊 GitHub Statistics
 
-I'm currently exploring how AI can be integrated into modern software applications.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh311&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanesh311&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-```text
-Python
-   ↓
-AI Fundamentals
-   ↓
-Machine Learning Basics
-   ↓
-Generative AI
-   ↓
-LLMs
-   ↓
-Prompt Engineering
-   ↓
-Embeddings
-   ↓
-Vector Databases
-   ↓
-RAG
-   ↓
-AI-powered Backend Applications
-```
-
-### 🔍 Areas I'm Exploring
-
-**Generative AI**
-
-* Understanding how modern generative AI systems work
-* Prompt design
-* AI application development
-
-**LLMs**
-
-* LLM fundamentals
-* Tokens & context
-* Prompting
-* Model interaction
-* LLM APIs
-
-**RAG**
-
-* Document processing
-* Text chunking
-* Embeddings
-* Vector search
-* Retrieval
-* Context augmentation
-* LLM response generation
-
-**AI + Backend**
-
-* Building AI APIs
-* Connecting LLMs with backend applications
-* Creating AI-powered REST APIs
-* Exploring intelligent backend services
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bhuvanesh311&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-# 🧠 Backend Learning Journey
+## 🎯 Current Focus
 
-```text
-Python
-   ↓
-OOP & Problem Solving
-   ↓
-SQL & Databases
-   ↓
-Django
-   ↓
-Django REST Framework
-   ↓
-REST APIs
-   ↓
-Authentication & Security
-   ↓
-Advanced Backend Development
-   ↓
-System Design
-   ↓
-Cloud & AWS
-```
+- Building scalable Python backend applications.
+- Improving Django and FastAPI development skills.
+- Learning AI agents and RAG architecture.
+- Understanding production-level deployment and CI/CD.
+- Writing clean, maintainable, and testable code.
 
 ---
 
-# 📚 Currently Learning
+## 🤝 Connect With Me
 
-### Backend
-
-* Advanced Django
-* FastAPI
-* Redis
-* Celery
-* Docker
-* AWS
-* System Design
-* Microservices
-* API Security
-* Database Optimization
-
-### AI
-
-* AI Fundamentals
-* Generative AI
-* LLMs
-* Embeddings
-* Vector Databases
-* RAG
-* AI APIs
-* AI + Backend Integration
+<p>
+  <a href="https://github.com/Bhuvanesh311">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bhuvaneshwaran-d-/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 🎯 My Goal
+<p align="center">
+  <b>💡 Learn. Build. Improve. Repeat.</b>
+</p>
 
-My goal is to become a strong **Python Backend Developer with AI/GenAI skills**.
-
-I'm interested in building applications that combine:
-
-```text
-🐍 Python
-      +
-🌐 Backend APIs
-      +
-🗄️ Databases
-      +
-🔐 Security
-      +
-☁️ Cloud
-      +
-🤖 AI / GenAI
-```
-
-I want to understand not only **how to write code**, but also how real-world applications are designed, secured, deployed, scaled, and integrated with modern AI technologies.
-
----
-
-# 🎓 Education
-
-### M.Sc. Computer Science
-
-**Hindusthan College of Arts and Science**
-2023 – 2025
-
-### B.Sc. Computer Science
-
-**K.S.R. College of Arts and Science**
-2020 – 2023
-
----
-
-# 🤝 Connect With Me
-
-📧 **Email:** [bhuvanesh31102@gmail.com](mailto:bhuvanesh31102@gmail.com)
-
-💼 **LinkedIn:** [Bhuvaneshwaran D](https://www.linkedin.com/in/bhuvaneshwaran-d-/)
-
-🐙 **GitHub:** [Bhuvanesh311](https://github.com/Bhuvanesh311)
-
----
-
-### ⭐ Learn → Build → Debug → Understand → Improve
-
-> *Building backend systems while exploring the possibilities of AI.*
+<p align="center">
+  Thanks for visiting my GitHub profile! ⭐
+</p>
